@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPG Probe</string>
+    <string name="service_label">EPG Probe</string>
+    <string name="service_desc">Lee los textos visibles en pantalla para comprobar si Xuper TV expone el nombre del canal.</string>
+</resources>
